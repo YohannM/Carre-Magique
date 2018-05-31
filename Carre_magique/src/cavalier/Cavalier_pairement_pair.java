@@ -129,7 +129,7 @@ public class Cavalier_pairement_pair
 					{  
 						for ( int v=0; v<n/2;v++)
 						{
-							carre[h][s]= carre3[h-n/2][s];
+							carre[h][v]= carre3[h-n/2][v];
 						}
 					}
 					
